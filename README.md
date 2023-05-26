@@ -1,2 +1,2 @@
-# introdução HTML-CSS
-Repositório de estudos (HTML &amp; CSS)
+# JavaScript
+Repositório para subir aulas de Programação Web (2023.1)
